@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David Santiago\\Desktop\\Proyectos\\Carlos\\Proyecto Carta Porte\\CartaPorte\\CartaPorte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC470E46-D500-4827-B17B-8C3282CF93EC}|CartaPorte\\CartaPorte.csproj|c:\\users\\david santiago\\desktop\\proyectos\\carlos\\proyecto carta porte\\cartaporte\\cartaporte\\cartaporte\\logica\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC470E46-D500-4827-B17B-8C3282CF93EC}|CartaPorte\\CartaPorte.csproj|solutionrelative:cartaporte\\logica\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC470E46-D500-4827-B17B-8C3282CF93EC}|CartaPorte\\CartaPorte.csproj|c:\\users\\david santiago\\desktop\\proyectos\\carlos\\proyecto carta porte\\cartaporte\\cartaporte\\cartaporte\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC470E46-D500-4827-B17B-8C3282CF93EC}|CartaPorte\\CartaPorte.csproj|solutionrelative:cartaporte\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC470E46-D500-4827-B17B-8C3282CF93EC}|CartaPorte\\CartaPorte.csproj|c:\\users\\david santiago\\desktop\\proyectos\\carlos\\proyecto carta porte\\cartaporte\\cartaporte\\cartaporte\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC470E46-D500-4827-B17B-8C3282CF93EC}|CartaPorte\\CartaPorte.csproj|solutionrelative:cartaporte\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\Users\\David Santiago\\Desktop\\Proyectos\\Carlos\\Proyecto Carta Porte\\CartaPorte\\CartaPorte\\CartaPorte\\Logica\\Globals.cs",
+              "RelativeDocumentMoniker": "CartaPorte\\Logica\\Globals.cs",
+              "ToolTip": "C:\\Users\\David Santiago\\Desktop\\Proyectos\\Carlos\\Proyecto Carta Porte\\CartaPorte\\CartaPorte\\CartaPorte\\Logica\\Globals.cs",
+              "RelativeToolTip": "CartaPorte\\Logica\\Globals.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA0wDwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:01:43.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\David Santiago\\Desktop\\Proyectos\\Carlos\\Proyecto Carta Porte\\CartaPorte\\CartaPorte\\CartaPorte\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "CartaPorte\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\David Santiago\\Desktop\\Proyectos\\Carlos\\Proyecto Carta Porte\\CartaPorte\\CartaPorte\\CartaPorte\\Forms\\Login.cs",
+              "RelativeToolTip": "CartaPorte\\Forms\\Login.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAuwHgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:58:27.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\David Santiago\\Desktop\\Proyectos\\Carlos\\Proyecto Carta Porte\\CartaPorte\\CartaPorte\\CartaPorte\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "CartaPorte\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\David Santiago\\Desktop\\Proyectos\\Carlos\\Proyecto Carta Porte\\CartaPorte\\CartaPorte\\CartaPorte\\Forms\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CartaPorte\\Forms\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:55:40.038Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
